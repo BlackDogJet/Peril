@@ -1,3 +1,3 @@
-# learn-pub-sub-starter (Peril)
+# Peril
 
-This is the starter code used in Boot.dev's [Learn Pub/Sub](https://learn.boot.dev/learn-pub-sub) course.
+A make-believe clone of the classic game "Risk". The only difference is that it's online and real-time!
